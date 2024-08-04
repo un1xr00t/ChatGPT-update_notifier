@@ -25,8 +25,8 @@ This script checks for updates to a specified app on the Apple App Store and sen
 3. Create a new application on the [Applications & Plugins](https://pushover.net/apps/build) page to get an API token.
 
 ### 3. Clone the Repository and Navigate to the Project Directory
-2. Clone this repository.
-3. Install the required libraries:
+1. Clone this repository.
+2. Install the required libraries:
 
 ```bash
 pip install requests beautifulsoup4
