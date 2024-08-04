@@ -15,7 +15,16 @@ This script checks for updates to a specified app on the Apple App Store and sen
    - [Pushover for iOS](https://apps.apple.com/app/id506088175)
    - A computer (local or cloud) that is always powered on or scheduled to run the script
    - GitHub account (optional, for version control and hosting)
+   - 
+2. Sign up for a Pushover account on the app or [Pushover website](https://pushover.net/).
 
+### 3. Get Your Pushover User Key and Create an Application
+
+1. Log in to your Pushover account on the [Pushover website](https://pushover.net/).
+2. Your User Key can be found on the [dashboard](https://pushover.net/dashboard).
+3. Create a new application on the [Applications & Plugins](https://pushover.net/apps/build) page to get an API token.
+
+### 3. Clone the Repository and Navigate to the Project Directory
 2. Clone this repository.
 3. Install the required libraries:
 
