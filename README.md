@@ -31,5 +31,17 @@ This script checks for updates to a specified app on the Apple App Store and sen
 ```bash
 pip install requests beautifulsoup4
 ```
+
+### 4. Configure the Script
+
+Open the script file in a text editor and replace the placeholders with your actual values:
+
+    Replace 'your_api_key' with your actual API key from your weather data provider.
+    Replace 'your_latitude' with your actual latitude.
+    Replace 'your_longitude' with your actual longitude.
+    Replace 'your_location_name' with the name of your location (e.g., city name).
+    Replace 'your_api_token' with your actual Pushover API token.
+    Replace 'your_user_key' with your actual Pushover user key.
+    
 ## Troubleshooting
 You will need to have this running in a tmux session with an always powered on computer running this, either in the cloud or on a physical machine. If you choose to use the cloud, just put a crontab entry to run this weatherchecker at any specified time you pick.
