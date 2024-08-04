@@ -1,4 +1,4 @@
-# App Version Checker
+# iOS ChatGPT Version Checker
 
 This script checks for updates to a specified app on the Apple App Store and sends a notification if a new version is available. The notification is sent using Pushover.
 
