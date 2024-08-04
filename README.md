@@ -37,9 +37,6 @@ pip install requests beautifulsoup4
 Open the script file in a text editor and replace the placeholders with your actual values:
 
     Replace 'your_api_key' with your actual API key from your weather data provider.
-    Replace 'your_latitude' with your actual latitude.
-    Replace 'your_longitude' with your actual longitude.
-    Replace 'your_location_name' with the name of your location (e.g., city name).
     Replace 'your_api_token' with your actual Pushover API token.
     Replace 'your_user_key' with your actual Pushover user key.
     
