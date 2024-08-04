@@ -13,7 +13,6 @@ This script checks for updates to a specified app on the Apple App Store and sen
 
 1. Download and install the Pushover app on your phone:
    - [Pushover for iOS](https://apps.apple.com/app/id506088175)
-   - [Pushover for Android](https://play.google.com/store/apps/details?id=net.superblock.pushover)
    - A computer (local or cloud) that is always powered on or scheduled to run the script
    - GitHub account (optional, for version control and hosting)
 
